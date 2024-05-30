@@ -18,4 +18,5 @@ pluginManagement {
 
 rootProject.name = "nova_cli"
 include("nova-cli")
+include("nova-cli-square")
 include("model-common")

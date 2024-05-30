@@ -24,10 +24,11 @@ hs_err_pid*
 replay_pid*
 
 # Intellij
-./.idea/*
+**/.idea/workspace.xml
+**/.idea/tasks.xml
 
-./.nova-cli/build
-./.nova-common/build
-./.nova-cli-square/build
-./gradle
-./build/*
+**/.nova-cli/build
+**/.nova-common/build
+**/.nova-cli-square/build
+**/.gradle/*
+**/build/*

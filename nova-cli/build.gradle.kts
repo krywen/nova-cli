@@ -13,8 +13,8 @@ repositories {
 
 //mainClassName = "com.nova.cli.main.MainKt"
 application {
-    mainClassName = "com.nova.cli.main.MainKt"
-    mainClass.set("com.nova.cli.main.MainKt")
+    mainClassName = "com.nova.cli.square.main.MainKt"
+    mainClass.set("com.nova.cli.square.main.MainKt")
 }
 tasks.jar {
     manifest {
