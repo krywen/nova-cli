@@ -2,4 +2,7 @@
 
 cli for nova fintech app. 
 
-run `com.nova.cli.square.main` for the cli
+build with `./gradlew build`
+
+run with `java -jar nova-cli-square/build/libs/nova-cli-square-all.jar`
+
